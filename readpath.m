@@ -68,14 +68,6 @@
                 % ADD CHANNELS & MODULATION MODULE GUI OPTIONS INTERNAL SERVICES
                 addpath('./Downlink/Chann_Modul/GUI/L1a_Options_GUI_serv');
 
-        % -------------------------------------------------------------------
-        %
-        % RADIO MODULE:
-
-        % ADD RADIO MODULE
-        addpath('./Downlink/Radio');        
-
-
     %% ADD LTE STANDARD FILES
     addpath('./LTE_Standard');
 
