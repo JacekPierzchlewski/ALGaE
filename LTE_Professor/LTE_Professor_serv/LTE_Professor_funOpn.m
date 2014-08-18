@@ -40,8 +40,7 @@ function iErr = LTE_Professor_funOpn(handles, strFileName)
 
 
         %% Get the name of the input file        
-        strFileName = strFileName{1};        
-
+        %strFileName = strFileName{1};        
         
         %% Check the input file
         
